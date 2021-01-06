@@ -1,7 +1,7 @@
 <?php return [
     'plugin' => [
         'name' => 'Movies',
-        'description' => '',
+        'description' => 'description',
     ],
     'name' => 'Name',
     'enter_name' => 'Enter name',
